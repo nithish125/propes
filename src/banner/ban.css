@@ -1,0 +1,46 @@
+.banner {
+    justify-content: center;
+    margin-top: -50px;
+  }
+  .banner1 {
+    justify-content: center;
+    text-align: center;
+    line-height: 30px;
+  }
+  .banner1 h1 {
+    padding-top: 117px;
+    color: aliceblue;
+    font-size: 45px;
+    margin-left: 160px;
+  }
+  .banner1 h2 {
+    font-size: 28px;
+    color: #fff;
+    margin: 25px 0px 30px 174px;
+  }
+  .spanbutton {
+    margin-top: 40px;
+    font-family: "Raleway", sans-serif;
+    display: inline-block;
+    justify-content: center;
+    border-radius: 4px;
+    padding: 10px 28px;
+      
+      border: 2px solid #85b0be;
+      color: #85b0be;
+      font-weight: 500;
+  }
+  .spanbutton span {
+    border-radius: 4px;
+     padding: 10px 28px;
+      border: 2px solid #85b0be;
+      color: #85b0be;
+      font-weight: 500;
+  }
+  .back_img1 {
+    width: 100%;
+    height: 65vh;
+    background: url("../images/image1.jpg") top center;
+    background-size: cover;
+    position: relative;
+  }

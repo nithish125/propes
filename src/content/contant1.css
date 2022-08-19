@@ -1,0 +1,36 @@
+.autem {
+    display: flex;
+    padding: 20px 50px;
+  }
+  .autem img {
+    border-radius: 1;
+    width: 350px;
+    margin: 0px 10px 0px 50px;
+  }
+  .autem h2 {
+    font-size: 25px;
+    margin: 0px 10px 0px 50px;
+  }
+  .autem p {
+    font-size: 20px;
+    margin: 0px 10px 0px 50px;
+  }
+  .autem h3 {
+    font-size: 21px;
+    border: 5px;
+    border-color: black;
+    margin: 0px 10px 0px 50px;
+  }
+  .c1 {
+    justify-content: center;
+    text-align: center;
+    line-height: 30px;
+  }
+  .spanbutton{
+    border-radius: 4px;
+     padding: 10px 28px;
+      border: 2px solid #85b0be;
+      background-color: rgb(208, 228, 245);
+      color: #85b0be;
+      font-weight: 500;
+  }
